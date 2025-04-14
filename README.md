@@ -1,7 +1,7 @@
-# Code Vibe Match
+# DevMatch
 
 ## Description
-Code Vibe Match is a modern web application designed to help developers find their perfect coding partners based on shared interests, skills, and project preferences. The platform provides an intuitive interface for users to create profiles, showcase their skills, and connect with like-minded developers.
+DevMatch is a modern web application designed to help developers find their perfect coding partners based on shared interests, skills, and project preferences. The platform provides an intuitive interface for users to create profiles, showcase their skills, and connect with like-minded developers.
 
 ## Features
 - 🔍 Smart matching algorithm to find compatible coding partners
