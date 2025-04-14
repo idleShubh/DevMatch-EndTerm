@@ -8,6 +8,10 @@ Code Vibe Match is a modern web application designed to help developers find the
 - 👤 User profiles with skill showcases
 - 📊 Project preference matching
 - 🌐 Responsive design for all devices
+  
+![DevMatch by idleShubh](https://github.com/user-attachments/assets/a952b6c8-e037-46eb-b3cb-0077c64f7465)
+![DevMatch by idleShubh · 12 16am · 04-15](https://github.com/user-attachments/assets/72329282-18b8-4983-beef-f4d17469ca73)
+![DevMatch by idleShubh · 12 16am · 04-15 (1)](https://github.com/user-attachments/assets/dadf493f-b879-4441-8176-b13642096a4b)
 
 ## Tech Stack
 - **Frontend Framework**: React with TypeScript
