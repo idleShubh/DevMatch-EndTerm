@@ -58,7 +58,7 @@ const GithubInputForm = ({ onSubmit, isLoading }: GithubInputFormProps) => {
                 <Link className="h-4 w-4" />
               </div>
             </div>
-            <p className="text-indigo-300/70 text-xs mt-1">Example: octocat or https://github.com/octocat</p>
+            <p className="text-indigo-300/70 text-xs mt-1">Example: idleshubh or https://github.com/idleshubh</p>
           </div>
           
           <div>
@@ -83,7 +83,7 @@ const GithubInputForm = ({ onSubmit, isLoading }: GithubInputFormProps) => {
                 <Link className="h-4 w-4" />
               </div>
             </div>
-            <p className="text-indigo-300/70 text-xs mt-1">Example: octocat or https://github.com/octocat</p>
+            <p className="text-indigo-300/70 text-xs mt-1">Example: idleshubh or https://github.com/idleshubh</p>
           </div>
         </div>
         

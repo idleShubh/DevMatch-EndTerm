@@ -6,11 +6,8 @@ Code Vibe Match is a modern web application designed to help developers find the
 ## Features
 - 🔍 Smart matching algorithm to find compatible coding partners
 - 👤 User profiles with skill showcases
-- 💬 Real-time chat functionality
 - 📊 Project preference matching
-- 🔔 Notification system for new matches
 - 🌐 Responsive design for all devices
-- 🔒 Secure authentication system
 
 ## Tech Stack
 - **Frontend Framework**: React with TypeScript
