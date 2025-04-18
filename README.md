@@ -38,7 +38,7 @@ cd code-vibe-match
 
 2. Install dependencies:
 ```bash
-npm install --legacy-peer-deps
+npm install 
 ```
 
 3. Start the development server:
@@ -46,7 +46,7 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-The application will be available at `http://localhost:8080`
+The application will be available at `dev-match-end-term.vercel.app`
 
 
 
