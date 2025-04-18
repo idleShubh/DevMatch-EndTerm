@@ -36,7 +36,7 @@ const CompatibilityResults: React.FC<CompatibilityResultsProps> = ({ users, comp
   return (
     <div className="space-y-8 animate-in fade-in duration-500">
       <div className="flex justify-between items-center">
-        <Button variant="ghost" onClick={onReset} className="hover:bg-indigo-900/30 transition-colors duration-200">
+        <Button onClick={onReset} className="bg-indigo-800/50 text-white hover:bg-indigo-700/50 transition-all duration-200 border border-indigo-500/30">
           <ArrowLeft className="mr-2 h-4 w-4" />
           Analyze New Match
         </Button>
